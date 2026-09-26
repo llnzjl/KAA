@@ -1,0 +1,10 @@
+{
+  "name": "kaa-korea-assist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 server.py",
+    "check": "node --check public/app.js",
+    "test": "python3 -m unittest discover -s tests -v"
+  }
+}

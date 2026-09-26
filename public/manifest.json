@@ -1,0 +1,16 @@
+{
+  "name": "KAA - Korea Assist",
+  "short_name": "KAA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eaf6ff",
+  "theme_color": "#eaf6ff",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+[
+  {
+    "id": "1",
+    "level": 1,
+    "title": "Korean alphabet introduction",
+    "vocabulary": [
+      {
+        "ko": "한글",
+        "romanization": "han-geul",
+        "meaning": "Korean alphabet"
+      }
+    ],
+    "example": "한글을 배워요.",
+    "translation": "I learn Hangul.",
+    "culture": "Hangul letters form syllable blocks. A block is not always a whole word.",
+    "quiz": {
+      "type": "multiple",
+      "question": "What is 한글?",
+      "options": [
+        "Korean alphabet",
+        "A train",
+        "A bank",
+        "A visa"
+      ],
+      "answer": "Korean alphabet",
+      "audio": "한글",
+      "explanation": "한글 — Korean alphabet. Hangul letters form syllable blocks. A block is not always a whole word."
+    }
+  },
+  {
+    "id": "2",
+    "level": 1,
+    "title": "Basic vowels",
+    "vocabulary": [
+      {
+        "ko": "아",
+        "romanization": "a",
+        "meaning": "a vowel sound"
+      }
+    ],
+    "example": "아, 네.",
+    "translation": "Ah, yes.",
+    "culture": "Start with ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, ㅣ. Romanization is only a guide.",
+    "quiz": {
+      "type": "matching",
+      "question": "Match the vowel sound: 아",
+      "options": [
+        "a",
+        "o",
+        "u",
+        "i"
+      ],
+      "answer": "a",
+      "audio": "아",
+      "explanation": "아 — a vowel sound. Start with ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, ㅣ. Romanization is only a guide."
+    }
+  },
+  {
+    "id": "3",
+    "level": 1,
+    "title": "Basic consonants",
+    "vocabulary": [
+      {
+        "ko": "나",
+        "romanization": "na",
+        "meaning": "I / me (informal)"
+      }
+    ],
+    "example": "나는 학생이야.",
+    "translation": "I am a student. (informal)",
+    "culture": "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ are basic consonants. Use polite speech with unfamiliar adults.",
+    "quiz": {
+      "type": "listening",
+      "question": "Listen and select the syllable you hear.",
+      "options": [
+        "나",
+        "마",
+        "가",
+        "다"
+      ],
+      "answer": "나",
+      "audio": "나",
+      "explanation": "나 — I / me (informal). ㄱ, ㄴ, ㄷ, ㄹ, ㅁ are basic consonants. Use polite speech with unfamiliar adults."
+    }
+  },
+  {
+    "id": "4",
+    "level": 1,
+    "title": "Combining letters",
+    "vocabulary": [
+      {
+        "ko": "가",
+        "romanization": "ga",
+        "meaning": "the syllable ga"
+      }
+    ],
+    "example": "가요.",
+    "translation": "[Someone] goes.",
+    "culture": "ㄱ + ㅏ combine into 가. Syllables begin with a consonant letter.",
+    "quiz": {
+      "type": "fill",
+      "question": "Complete: ㄱ + ㅏ = ___",
+      "options": [],
+      "answer": "가",
+      "audio": "가",
+      "explanation": "가 — the syllable ga. ㄱ + ㅏ combine into 가. Syllables begin with a consonant letter."
+    }
+  },
+  {
+    "id": "5",
+    "level": 1,
+    "title": "Reading simple syllables",
+    "vocabulary": [
+      {
+        "ko": "학교",
+        "romanization": "hak-gyo",
+        "meaning": "school"
+      }
+    ],
+    "example": "학교에 가요.",
+    "translation": "I go to school.",
+    "culture": "A bottom consonant is called 받침. 학교 contains two syllable blocks.",
+    "quiz": {
+      "type": "translation",
+      "question": "Translate 학교 into English.",
+      "options": [],
+      "answer": "school",
+      "audio": "학교",
+      "explanation": "학교 — school. A bottom consonant is called 받침. 학교 contains two syllable blocks."
+    }
+  },
+  {
+    "id": "6",
+    "level": 1,
+    "title": "Basic pronunciation",
+    "vocabulary": [
+      {
+        "ko": "한국",
+        "romanization": "han-guk",
+        "meaning": "Korea"
+      }
+    ],
+    "example": "한국에서 공부해요.",
+    "translation": "I study in Korea.",
+    "culture": "Final consonants may sound different when followed by another syllable. Listen to native pronunciation.",
+    "quiz": {
+      "type": "multiple",
+      "question": "What does 한국 mean?",
+      "options": [
+        "Korea",
+        "School",
+        "Friend",
+        "Hospital"
+      ],
+      "answer": "Korea",
+      "audio": "한국",
+      "explanation": "한국 — Korea. Final consonants may sound different when followed by another syllable. Listen to native pronunciation."
+    }
+  },
+  {
+    "id": "7",
+    "level": 1,
+    "title": "Greetings",
+    "vocabulary": [
+      {
+        "ko": "안녕하세요",
+        "romanization": "an-nyeong-ha-se-yo",
+        "meaning": "hello"
+      }
+    ],
+    "example": "안녕하세요, 선생님.",
+    "translation": "Hello, teacher.",
+    "culture": "안녕하세요 is a common polite greeting. A small bow is often natural.",
+    "quiz": {
+      "type": "ordering",
+      "question": "Arrange the Korean greeting to a teacher.",
+      "options": [
+        "안녕하세요,",
+        "선생님."
+      ],
+      "answer": "안녕하세요, 선생님.",
+      "audio": "안녕하세요",
+      "explanation": "안녕하세요 — hello. 안녕하세요 is a common polite greeting. A small bow is often natural."
+    }
+  },
+  {
+    "id": "8",
+    "level": 1,
+    "title": "Introducing yourself",
+    "vocabulary": [
+      {
+        "ko": "학생",
+        "romanization": "hak-saeng",
+        "meaning": "student"
+      }
+    ],
+    "example": "저는 학생이에요.",
+    "translation": "I am a student.",
+    "culture": "저 is a polite way to refer to yourself. 이에요 follows a noun ending in a consonant.",
+    "quiz": {
+      "type": "multiple",
+      "question": "What does 학생 mean?",
+      "options": [
+        "Teacher",
+        "Student",
+        "University",
+        "Friend"
+      ],
+      "answer": "Student",
+      "audio": "학생",
+      "explanation": "학생 — student. 저 is a polite way to refer to yourself. 이에요 follows a noun ending in a consonant."
+    }
+  },
+  {
+    "id": "9",
+    "level": 1,
+    "title": "Numbers",
+    "vocabulary": [
+      {
+        "ko": "일",
+        "romanization": "il",
+        "meaning": "one (Sino-Korean)"
+      }
+    ],
+    "example": "일, 이, 삼",
+    "translation": "One, two, three",
+    "culture": "Korean has Sino-Korean and native Korean number systems. Usage depends on context.",
+    "quiz": {
+      "type": "fill",
+      "question": "Complete the Sino-Korean sequence: 일, 이, ___",
+      "options": [],
+      "answer": "삼",
+      "audio": "일",
+      "explanation": "일 — one (Sino-Korean). Korean has Sino-Korean and native Korean number systems. Usage depends on context."
+    }
+  },
+  {
+    "id": "10",
+    "level": 1,
+    "title": "Everyday expressions",
+    "vocabulary": [
+      {
+        "ko": "감사합니다",
+        "romanization": "gam-sa-ham-ni-da",
+        "meaning": "thank you"
+      }
+    ],
+    "example": "감사합니다!",
+    "translation": "Thank you!",
+    "culture": "감사합니다 is polite and appropriate in many everyday situations.",
+    "quiz": {
+      "type": "translation",
+      "question": "Translate 감사합니다 into English.",
+      "options": [],
+      "answer": "thank you",
+      "audio": "감사합니다",
+      "explanation": "감사합니다 — thank you. 감사합니다 is polite and appropriate in many everyday situations."
+    }
+  },
+  {
+    "id": "11",
+    "level": 2,
+    "title": "At the university",
+    "vocabulary": [
+      {
+        "ko": "도서관",
+        "romanization": "do-seo-gwan",
+        "meaning": "library"
+      }
+    ],
+    "example": "도서관이 어디예요?",
+    "translation": "Where is the library?",
+    "culture": "어디예요? politely asks where something is.",
+    "quiz": {
+      "type": "multiple",
+      "question": "What is 도서관?",
+      "options": [
+        "Library",
+        "Bank",
+        "Hospital",
+        "Airport"
+      ],
+      "answer": "Library",
+      "audio": "도서관",
+      "explanation": "도서관 — library. 어디예요? politely asks where something is."
+    }
+  },
+  {
+    "id": "12",
+    "level": 2,
+    "title": "At immigration",
+    "vocabulary": [
+      {
+        "ko": "예약",
+        "romanization": "ye-yak",
+        "meaning": "reservation / appointment"
+      }
+    ],
+    "example": "예약했어요.",
+    "translation": "I made an appointment.",
+    "culture": "Use the Korean term 예약 when discussing appointments. This is a language lesson, not procedural guidance.",
+    "quiz": {
+      "type": "multiple",
+      "question": "What does 예약 mean?",
+      "options": [
+        "Appointment",
+        "Passport",
+        "Address",
+        "Tuition"
+      ],
+      "answer": "Appointment",
+      "audio": "예약",
+      "explanation": "예약 — reservation / appointment. Use the Korean term 예약 when discussing appointments. This is a language lesson, not procedural guidance."
+    }
+  }
+]

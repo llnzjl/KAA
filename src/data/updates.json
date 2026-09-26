@@ -1,0 +1,54 @@
+[
+  {
+    "id": "welcome",
+    "title": "Welcome to your Korea companion",
+    "category": "KAA",
+    "description": "Set up your university and language to personalize your dashboard. This is an app guide, not a current announcement.",
+    "date": "2026-09-18",
+    "url": null,
+    "source": "KAA editorial",
+    "importance": "normal",
+    "university": null,
+    "visa": null,
+    "sample": false
+  },
+  {
+    "id": "snu-example",
+    "title": "SNU international office resources",
+    "category": "University",
+    "description": "Sample resource card, not a live university announcement. Open the official office to check current notices.",
+    "date": null,
+    "url": "https://oia.snu.ac.kr/",
+    "source": "Official office directory",
+    "importance": "normal",
+    "university": "snu",
+    "visa": null,
+    "sample": true
+  },
+  {
+    "id": "cbnu-example",
+    "title": "CBNU international office resources",
+    "category": "University",
+    "description": "Sample resource card, not a live university announcement. Check the official office for current notices.",
+    "date": null,
+    "url": "https://cia.chungbuk.ac.kr/",
+    "source": "Official office directory",
+    "importance": "normal",
+    "university": "cbnu",
+    "visa": null,
+    "sample": true
+  },
+  {
+    "id": "d2-guide",
+    "title": "Before taking a part-time job",
+    "category": "Immigration",
+    "description": "General safety reminder: check your visa conditions and required permission before employment. Not a new policy announcement.",
+    "date": null,
+    "url": "https://www.hikorea.go.kr/",
+    "source": "Official immigration starting point",
+    "importance": "important",
+    "university": null,
+    "visa": "D-2",
+    "sample": false
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "aiNotConfigured": "Live AI is not configured. Add AI_API_KEY to your server .env file and restart. Your question has not been sent to an AI provider. For now, use the University links, Korean lessons and official immigration resources. No current policy has been verified.",
+  "aiProviderUnavailable": "The AI provider is temporarily unavailable or overloaded. Please try again in a moment. For visa or official-process questions, open the official links in KAA and confirm details directly; no current policy has been verified in this fallback message."
+}

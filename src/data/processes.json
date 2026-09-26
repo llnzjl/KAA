@@ -1,0 +1,100 @@
+[
+  {
+    "id": "extension",
+    "name": "Visa extension",
+    "description": "Planning workspace for discussing extension requirements with the official service.",
+    "documents": [
+      "Passport",
+      "Residence card",
+      "Certificate of enrollment",
+      "Transcript",
+      "Financial evidence"
+    ],
+    "source": "https://www.hikorea.go.kr/",
+    "verified": false
+  },
+  {
+    "id": "arc",
+    "name": "Residence card",
+    "description": "Prepare questions about registration or card issuance.",
+    "documents": [
+      "Passport",
+      "Residence card",
+      "Certificate of enrollment",
+      "Transcript",
+      "Financial evidence"
+    ],
+    "source": "https://www.hikorea.go.kr/",
+    "verified": false
+  },
+  {
+    "id": "address",
+    "name": "Address change",
+    "description": "Check the applicable reporting process and deadline promptly with immigration.",
+    "documents": [
+      "Passport",
+      "Residence card",
+      "Certificate of enrollment",
+      "Transcript",
+      "Financial evidence"
+    ],
+    "source": "https://www.hikorea.go.kr/",
+    "verified": false
+  },
+  {
+    "id": "work",
+    "name": "Part-time work permission",
+    "description": "Confirm eligibility and obtain required permission before starting work.",
+    "documents": [
+      "Passport",
+      "Residence card",
+      "Certificate of enrollment",
+      "Transcript",
+      "Financial evidence"
+    ],
+    "source": "https://www.hikorea.go.kr/",
+    "verified": false
+  },
+  {
+    "id": "university",
+    "name": "University documents",
+    "description": "Ask your university which certificates are relevant.",
+    "documents": [
+      "Passport",
+      "Residence card",
+      "Certificate of enrollment",
+      "Transcript",
+      "Financial evidence"
+    ],
+    "source": "https://www.hikorea.go.kr/",
+    "verified": false
+  },
+  {
+    "id": "tax",
+    "name": "Tax documents",
+    "description": "Confirm the applicable tax documentation with the tax authority.",
+    "documents": [
+      "Passport",
+      "Residence card",
+      "Certificate of enrollment",
+      "Transcript",
+      "Financial evidence"
+    ],
+    "source": "https://www.hikorea.go.kr/",
+    "verified": false
+  },
+  {
+    "id": "insurance",
+    "name": "Insurance documents",
+    "description": "Check relevant enrollment and certificate requirements with your insurer.",
+    "documents": [
+      "Passport",
+      "Residence card",
+      "Certificate of enrollment",
+      "Transcript",
+      "Financial evidence"
+    ],
+    "source": "https://www.hikorea.go.kr/",
+    "verified": false
+  }
+]

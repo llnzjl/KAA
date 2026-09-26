@@ -1,0 +1,180 @@
+[
+  {
+    "id": "snu",
+    "name": "Seoul National University",
+    "homepage": "https://www.snu.ac.kr/",
+    "internationalOffice": "https://oia.snu.ac.kr/",
+    "domains": [
+      "snu.ac.kr"
+    ],
+    "topics": [
+      {
+        "name": "Student ID",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Academic calendar",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Registration",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Course registration",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Dormitory",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Scholarships",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Tuition",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Library",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Campus map",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Academic regulations",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "International student services",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Visa support",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Important announcements",
+        "url": "https://oia.snu.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      }
+    ]
+  },
+  {
+    "id": "cbnu",
+    "name": "Chungbuk National University",
+    "homepage": "https://www.chungbuk.ac.kr/",
+    "internationalOffice": "https://cia.chungbuk.ac.kr/",
+    "domains": [
+      "chungbuk.ac.kr"
+    ],
+    "topics": [
+      {
+        "name": "Student ID",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Academic calendar",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Registration",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Course registration",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Dormitory",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Scholarships",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Tuition",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Library",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Campus map",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Academic regulations",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "International student services",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Visa support",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      },
+      {
+        "name": "Important announcements",
+        "url": "https://cia.chungbuk.ac.kr/",
+        "status": "Official office starting point; procedure page not yet verified",
+        "checkedAt": null
+      }
+    ]
+  }
+]
