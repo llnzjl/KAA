@@ -1,5 +1,7 @@
 # KAA — Korea Assist App
 
+> Status: This project is still under development and is not finished. It is a local development build and not production-ready.
+
 Local development release, not production-ready. This ZIP contains all existing source files, sample content, tests and configuration examples. It does not claim full completion of the original product specification.
 
 ## Run locally
