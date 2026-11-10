@@ -1,4 +1,28 @@
-const CACHE='kaa-public-v6';const FILES=['/','/app.js','/styles.css','/phone.css','/logo.svg','/api/content','/locales/en.json','/locales/ko.json','/locales/fa.json','/locales/ps.json','/locales/ur.json','/locales/hi.json','/locales/zh.json','/locales/vi.json','/locales/tl.json','/locales/ja.json'];
-self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)));self.skipWaiting()});
-self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
-self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET'||u.origin!==location.origin||!FILES.includes(u.pathname))return;e.respondWith(fetch(e.request).then(r=>{if(r.ok){const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy))}return r}).catch(()=>caches.match(e.request)))});
+const CACHE = 'kaa-public-v7:' + self.registration.scope;
+const FILES = ['./', 'app.js?v=7', 'styles.css?v=7', 'phone.css?v=7', 'logo.svg',
+  'manifest.json', 'api/content', 'locales/en.json', 'locales/ko.json',
+  'locales/fa.json', 'locales/ps.json', 'locales/ur.json', 'locales/hi.json',
+  'locales/zh.json', 'locales/vi.json', 'locales/tl.json', 'locales/ja.json'];
+const urls = FILES.map(path => new URL(path, self.registration.scope).href);
+self.addEventListener('install', event => {
+  event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(urls)));
+  self.skipWaiting();
+});
+self.addEventListener('activate', event => event.waitUntil(
+  caches.keys().then(keys => Promise.all(keys.filter(key =>
+    key.startsWith('kaa-public-') && key !== CACHE &&
+    (key.endsWith(':' + self.registration.scope) || /^kaa-public-v\d+$/.test(key))
+  ).map(key => caches.delete(key)))).then(() => self.clients.claim())
+));
+self.addEventListener('fetch', event => {
+  const url = new URL(event.request.url);
+  url.hash = '';
+  if (event.request.method !== 'GET' || !urls.includes(url.href)) return;
+  event.respondWith(fetch(event.request).then(response => {
+    if (response.ok) {
+      const copy = response.clone();
+      event.waitUntil(caches.open(CACHE).then(cache => cache.put(event.request, copy)));
+    }
+    return response;
+  }).catch(() => caches.match(event.request)));
+});

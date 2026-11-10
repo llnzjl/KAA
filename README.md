@@ -1,5 +1,11 @@
 # KAA — Korea Assist App
 
+**Open the app: https://llnzjl.github.io/KAA/**
+
+GitHub Pages publishes the app interface automatically on each push to `main`. This browser edition opens directly to the dashboard and saves profiles, lessons, checklists, and links on the current device. Account sign-in, cloud sync, and live AI require separately hosted backend services. The GitHub repository page itself still displays this README.
+
+To build the Pages site locally, run `python scripts/build_pages.py`, then serve `dist` with a static HTTP server. `.github/workflows/pages.yml` tests, builds, and deploys only public assets; databases, uploaded photos, and secrets are excluded.
+
 > Status: This project is still under development and is not finished. It is a local development build and not production-ready.
 
 Local development release, not production-ready. This ZIP contains all existing source files, sample content, tests and configuration examples. It does not claim full completion of the original product specification.
