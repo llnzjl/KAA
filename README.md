@@ -27,7 +27,7 @@ On macOS/Linux, use `python3 server.py` if necessary. On Windows, `py server.py`
 4. Open **http://localhost:3000** in a browser. Do not open index.html directly.
 5. Choose **Explore demo**, or create an account using a password of at least 10 characters.
 
-The desktop layout includes a 393 × 852 phone preview. Browser developer tools can also simulate an iPhone 15 Pro viewport. This is a browser application, not a signed native iOS/Android app.
+The responsive layout uses a desktop dashboard with side navigation on wide screens, and stacked cards with bottom navigation on mobile. This is a browser application, not a signed native iOS/Android app.
 
 ## Storage
 

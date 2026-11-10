@@ -1,5 +1,5 @@
-const CACHE = 'kaa-public-v7:' + self.registration.scope;
-const FILES = ['./', 'app.js?v=7', 'styles.css?v=7', 'phone.css?v=7', 'logo.svg',
+const CACHE = 'kaa-public-v8:' + self.registration.scope;
+const FILES = ['./', 'app.js?v=8', 'styles.css?v=8', 'phone.css?v=8', 'logo.svg',
   'manifest.json', 'api/content', 'locales/en.json', 'locales/ko.json',
   'locales/fa.json', 'locales/ps.json', 'locales/ur.json', 'locales/hi.json',
   'locales/zh.json', 'locales/vi.json', 'locales/tl.json', 'locales/ja.json'];
